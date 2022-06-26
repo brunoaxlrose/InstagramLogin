@@ -3,11 +3,11 @@ Instagram HTML/CSS
 
 # Imagem programa em execução.
 <p align="center">
-    <img width="470" src="InstagramLogin/img/interface_instagram.PNG">    
+    <img width="470" src="InstagramLogin/img/interface_instagram.png">    
 </p>
 # Gif programa em execução.
 <p align="center">
-    <img width="470" src="JogoDaVelhaCSharp/obj/jogovelha.gif">    
+    <img width="470" src="InstagramLogin/img/acessar_perfil.gif">    
 </p>
 
 ## Descrição do Programa
