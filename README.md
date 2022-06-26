@@ -2,7 +2,7 @@
 
 # Imagem programa em execução.
 <p align="center">
-    <img width="700" src="https://user-images.githubusercontent.com/99514519/175823235-7923b618-dcc9-43d1-99db-59f1e50be7b8.PNG" >  
+    <img width="900" src="https://user-images.githubusercontent.com/99514519/175823235-7923b618-dcc9-43d1-99db-59f1e50be7b8.PNG" >  
     </p>
 # Gif Acessando perfil pessoal.
 <p align="center">
