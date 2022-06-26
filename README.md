@@ -8,7 +8,7 @@
 <p align="center">
     <img width="900" src="https://user-images.githubusercontent.com/99514519/175823348-524d7238-7531-4e38-b641-0a3dbbdf85a0.gif">    
 </p>
-# Gif Acessando plataforma AppleStore.
+# Gif Acessando plataforma App Store.
 <p align="center">
     <img width="900" src="https://user-images.githubusercontent.com/99514519/175823493-ffd2c716-0047-42de-8cef-ff49f38c1733.gif">
 </p>
@@ -19,7 +19,7 @@
 
 ## Descrição do Programa
 Com base aos estudos juntamente a plataforma Digital Innovation One (DIO), consegui finalizar mais um projeto proposto por eles.
-Interface do Instagram, sendo possível acessar o site da plataforma Apple conhecida como AppleStore e a plataforma PlayStore, para estar adquirindo o aplicativo de forma móvel em dispositivos IOS e Android.
+Interface do Instagram, sendo possível acessar o site da plataforma Apple conhecida como App Store e a plataforma PlayStore, para estar adquirindo o aplicativo de forma móvel em dispositivos IOS e Android.
 Ao clicar em cima do meu usuário será possível visitar meu perfil pessoal. 
 
 
