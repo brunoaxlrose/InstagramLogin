@@ -1,5 +1,4 @@
-# InstagramLogin
-Instagram HTML/CSS
+# Instagram HTML/CSS
 
 # Imagem programa em execução.
 <p align="center">
