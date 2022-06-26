@@ -10,8 +10,12 @@
 </p>
 # Gif Acessando plataforma AppleStore.
 <p align="center">
-    <img width="470" src=https://user-images.githubusercontent.com/99514519/175823493-ffd2c716-0047-42de-8cef-ff49f38c1733.gif
-         </p>
+    <img width="470" src="https://user-images.githubusercontent.com/99514519/175823493-ffd2c716-0047-42de-8cef-ff49f38c1733.gif">
+</p>
+# Gif Acessando plataforma PlayStore.   
+<p align="center">
+    <img width="470" src="https://user-images.githubusercontent.com/99514519/175823587-c378f5d7-f7d6-42d0-865d-730044379a06.gif">
+</p>
 
 ## Descrição do Programa
 <br>Com base aos estudos juntamente a plataforma Digital Innovation One, consegui finalizar mais um projeto proposto por eles.
