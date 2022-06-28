@@ -1,5 +1,5 @@
 # Instagram HTML/CSS
-link repósitorio: https://brunoalxrose.github.io/InstagramLogin/
+link repósitorio: https://brunoaxlrose.github.io/InstagramLogin/
 
 # Imagem programa em execução.
 <p align="center">
