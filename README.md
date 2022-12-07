@@ -1,4 +1,4 @@
-# Instagram HTML/CSS
+# Recriando a interface de login do Instagram
 link repósitorio: https://brunoaxlrose.github.io/InstagramLogin/
 
 # Imagem programa em execução.
@@ -20,7 +20,7 @@ link repósitorio: https://brunoaxlrose.github.io/InstagramLogin/
 
 ## Descrição do Programa
 Com base aos estudos juntamente a plataforma Digital Innovation One (DIO), consegui finalizar mais um projeto proposto por eles.
-Interface do Instagram, sendo possível acessar o site da plataforma Apple conhecida como App Store e a plataforma Google Play, para estar adquirindo o aplicativo de forma móvel em dispositivos IOS e Android.
+Recriado a interface do Instagram, sendo possível acessar o site da plataforma Apple conhecida como App Store e a plataforma Google Play, para estar adquirindo o aplicativo de forma móvel em dispositivos IOS e Android.
 Ao clicar em cima do meu usuário será possível visitar meu perfil pessoal. 
 
 
